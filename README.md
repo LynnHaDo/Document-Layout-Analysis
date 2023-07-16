@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/screenshot.png" height=640/>
+<img src="images/screenshot.png" height=640 align = "center"/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -134,7 +134,9 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 Linh Do - do24l@mtholyoke.edu/dohalinh2303@gmail.com (personal)
+
 Project Link: [https://github.com/LynnHaDo/Document-Layout-Analysis](https://github.com/LynnHaDo/Document-Layout-Analysis)
+
 LinkedIn: [https://linkedin.com/in/Linh Do](https://www.linkedin.com/in/linh-do-0327371b2/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
