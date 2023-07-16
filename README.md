@@ -26,7 +26,7 @@
 <h3 align="center">Layout Analysis of Scanned Documents</h3>
 
   <p align="center">
-    Object Detection Model using YOLOv8
+    Document Layout Analysis Checkpoint using YOLOv8
     <br />
     <a href="https://github.com/LynnHaDo/Document-Layout-Analysis">View Demo</a>
     ·
@@ -74,7 +74,7 @@
 
 ### Built With
 
-* [YOLOv8][https://nextjs.org/](https://ultralytics.com/yolov8)
+* [YOLOv8](https://ultralytics.com/yolov8)
 * [Gradio](https://www.gradio.app/)
 * [Google Colab]
 
@@ -88,27 +88,20 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+1. ultralytics 8.0.135
+2. numpy
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/LynnHaDo/Document-Layout-Analysis.git
    ```
-3. Install NPM packages
+2. Install packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+3. Download [Doclaynet dataset](https://huggingface.co/datasets/ds4sd/DocLayNet)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -122,21 +115,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/LynnHaDo/Document-Layout-Analysis/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -155,17 +133,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -174,7 +141,6 @@ Linh Do - do24l@mtholyoke.edu/dohalinh2303@gmail.com (personal)
 Project Link: [https://github.com/LynnHaDo/Document-Layout-Analysis](https://github.com/LynnHaDo/Document-Layout-Analysis)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -190,16 +156,5 @@ Project Link: [https://github.com/LynnHaDo/Document-Layout-Analysis](https://git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/LynnHaDo/Document-Layout-Analysis.svg?style=for-the-badge
-[contributors-url]: https://github.com/LynnHaDo/Document-Layout-Analysis/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/LynnHaDo/Document-Layout-Analysis.svg?style=for-the-badge
-[forks-url]: https://github.com/LynnHaDo/Document-Layout-Analysis/network/members
-[stars-shield]: https://img.shields.io/github/stars/LynnHaDo/Document-Layout-Analysis.svg?style=for-the-badge
-[stars-url]: https://github.com/LynnHaDo/Document-Layout-Analysis/stargazers
-[issues-shield]: https://img.shields.io/github/issues/LynnHaDo/Document-Layout-Analysis.svg?style=for-the-badge
-[issues-url]: https://github.com/LynnHaDo/Document-Layout-Analysis/issues
-[license-shield]: https://img.shields.io/github/license/LynnHaDo/Document-Layout-Analysis.svg?style=for-the-badge
-[license-url]: https://github.com/LynnHaDo/Document-Layout-Analysis/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Linh Do
+[linkedin-url]: [https://linkedin.com/in/Linh Do](https://www.linkedin.com/in/linh-do-0327371b2/)
 [product-screenshot]: images/screenshot.png
