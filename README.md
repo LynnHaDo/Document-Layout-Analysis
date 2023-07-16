@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Inference Screen Shot][product-screenshot]](https://example.com)
+<img src="images/screenshot.png"/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
