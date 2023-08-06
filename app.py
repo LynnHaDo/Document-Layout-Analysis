@@ -80,19 +80,3 @@ iface = gr.Interface(fn=detect,
                      inputs=gr.inputs.Image(label="Upload scanned document", type="filepath"), 
                      outputs="image")
 iface.launch()
-
-
-
-
-
-
-
-
-            
-
-
-
-
-    
-
-
