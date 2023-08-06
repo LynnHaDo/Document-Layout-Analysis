@@ -28,7 +28,7 @@
   <p align="center">
     Document Layout Analysis using YOLOv8
     <br />
-    <a href="https://github.com/LynnHaDo/Document-Layout-Analysis">View Demo</a>
+    <a href="https://huggingface.co/spaces/linhdo/document-layout-analysis">View Demo</a>
     ·
     <a href="https://github.com/LynnHaDo/Document-Layout-Analysis/issues">Report Bug</a>
     ·
@@ -70,10 +70,10 @@ Due to the lack of computational resources, I only performed the training proces
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 ### Built With
 
 * [YOLOv8](https://ultralytics.com/yolov8)
+* [Hugging Face Spaces](https://huggingface.co/spaces)
 * [Gradio](https://www.gradio.app/)
 * [Google Colab](https://colab.research.google.com/)
 
