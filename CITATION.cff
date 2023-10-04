@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Document Layout Analysis Baseline Model
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Linh
+    family-names: Do
+    email: do24l@mtholyoke.edu
+repository-code: 'https://github.com/LynnHaDo/Document-Layout-Analysis'
+url: >-
+  https://huggingface.co/spaces/linhdo/document-layout-analysis
+abstract: >-
+  Baseline Object Detection Model trained on Doclaynet
+  dataset
+license: MIT
+commit: a44264d
